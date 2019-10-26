@@ -59,3 +59,5 @@ cacheSolve(x)
 
 # The comand below basically returns the same result as step 2, but without calculations (for the love of R im getting the cached data)
 cacheSolve(x)
+
+# Cheers have a great day!
